@@ -1,0 +1,14 @@
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\bin\Debug\net6.0\textadventurecs.exe
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\bin\Debug\net6.0\textadventurecs.deps.json
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\bin\Debug\net6.0\textadventurecs.runtimeconfig.json
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\bin\Debug\net6.0\textadventurecs.dll
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\bin\Debug\net6.0\textadventurecs.pdb
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\obj\Debug\net6.0\textadventurecs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\obj\Debug\net6.0\textadventurecs.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\obj\Debug\net6.0\textadventurecs.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\obj\Debug\net6.0\textadventurecs.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\obj\Debug\net6.0\textadventurecs.dll
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\obj\Debug\net6.0\refint\textadventurecs.dll
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\obj\Debug\net6.0\textadventurecs.pdb
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\obj\Debug\net6.0\textadventurecs.genruntimeconfig.cache
+C:\Users\Sebastian\source\repos\textadventurecs\textadventurecs\obj\Debug\net6.0\ref\textadventurecs.dll
