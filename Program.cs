@@ -25,6 +25,7 @@ namespace TextAdventure
         public static void spielGestartet()
         {
             Console.WriteLine("Spielstart");
+            Console.ReadKey();
         }
 
         public static void spielBeendet()
